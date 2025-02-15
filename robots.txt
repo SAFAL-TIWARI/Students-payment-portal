@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://safal-tiwari.github.io/Students-payment-portal/sitemap.xml
